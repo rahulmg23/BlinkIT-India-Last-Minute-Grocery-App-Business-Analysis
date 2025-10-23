@@ -108,7 +108,8 @@ The Power BI dashboard includes five main pages:
 
   <img width="1443" height="809" alt="Screenshot 2025-10-23 195950" src="https://github.com/user-attachments/assets/9289cb2e-719a-48f6-8128-ac5736fd6a0e" />
 
-  <img width="1448" height="812" alt="Screenshot 2025-10-23 200028" src="https://github.com/user-attachments/assets/1df3a412-7074-4c1c-9b80-45186e551c35" /  >
+
+  <img width="1448" height="812" alt="Screenshot 2025-10-23 200028" src="https://github.com/user-attachments/assets/1df3a412-7074-4c1c-9b80-45186e551c35" />
 
 ---
 
