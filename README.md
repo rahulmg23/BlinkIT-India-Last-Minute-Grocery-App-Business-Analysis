@@ -502,9 +502,161 @@ While total sales and customer counts show **stability**, opportunities lie in *
 - Data supports deeper personalization and retention strategies for long-term growth.
 
 
-5. **Inventory Insights** – Stock Received, Availability %, and Damaged Stock Analysis
+5. ### Blinkit Customer Insights Dashboard
 
+<img width="1538" height="867" alt="Screenshot 2025-10-28 230441" src="https://github.com/user-attachments/assets/8a98e48e-e446-48f1-8feb-b1625c966db9" />
+## Overview
 
+This **Blinkit Customer Insights Dashboard** offers a complete analysis of customer behavior, sales performance, and retention metrics across the last six months.
+
+It bridges sales, engagement, and repeat-order data to highlight where Blinkit is performing well and where strategic improvements can drive growth.
+
+---
+
+## Sales Summary (Top-Left Card)
+
+**Chart Insight:**
+
+- **Quantity 2025:** 61.15 K
+- **Quantity 2024:** 61.92 K
+- **Growth:** -1.24 %
+
+**Analysis:**
+
+Overall order quantities remain almost identical year over year, with a small **1.24 % dip**.
+
+This suggests operational stability, though the company could push further customer re-engagement or new-user campaigns to reverse the slight decline.
+
+**Business Interpretation:**
+
+- Consistent performance shows brand trust and delivery reliability.
+- Minor decline can be mitigated with **seasonal offers** and **hyper-local campaigns** in Q1 2026.
+
+---
+
+## Total Customers (Top-Center Left)
+
+**Chart Insight:**
+
+- **2025:** 5 976 customers
+- **2024:** 6 082 customers
+- **Sales:** 61.15 K vs 62 K
+
+**Analysis:**
+
+Customer counts are nearly flat, and per-customer sales remain steady. Blinkit is **retaining existing users effectively**, though net new acquisition is slowing.
+
+**Business Interpretation:**
+
+- Maintain focus on **customer satisfaction and basket-size growth**.
+- Deploy referral programs to attract new customers without high marketing costs.
+
+---
+
+## New & Lost Customers (Top-Center)
+
+**Chart Insight:**
+
+- **Count:** 4 549 (2025) vs 4 655 (2024)
+- **Sales:** 58.4 K vs 59 K
+
+**Analysis:**
+
+The ratio of new to lost customers is balanced, implying a steady churn-to-acquisition relationship. A small reduction in new customers may indicate **market saturation** or reduced outreach.
+
+**Business Interpretation:**
+
+- Focus on converting **first-time buyers to regular users**.
+- Personalized onboarding or push notifications can reduce early-stage churn.
+
+---
+
+## Repeat Customers (Top-Right)
+
+**Chart Insight:**
+
+- **Count:** 722 (2025) vs 789 (2024)
+- **Sales:** 14 K vs 15 K
+
+**Analysis:**
+
+Repeat buyers—Blinkit’s most valuable segment—have dipped slightly. While the total isn’t alarming, **repeat sales drive profitability**, so revitalizing this group is crucial.
+
+**Business Interpretation:**
+
+- Launch **loyalty or subscription models** to reward frequent buyers.
+- Track repeat-order intervals to forecast and prompt timely reorders.
+
+---
+
+## Top 100 Customer Quantity (Bottom-Left)
+
+**Chart Insight:**
+
+Leading customers by quantity include:
+
+- Ikshita Sarna (73) • Jack Gandhi (69) • Saanvi Johal (69) • Chandran Kar… (65)
+
+**Analysis:**
+
+The **Top 100** customers form a large portion of Blinkit’s total orders, highlighting strong loyalty among power users.
+
+**Business Interpretation:**
+
+- These users should receive **priority support, early-access offers, or exclusive deals**.
+- Their purchase data can guide **recommendation algorithms** and targeted marketing.
+
+---
+
+## Customer Counts by Month (Bottom-Center)
+
+**Chart Insight:**
+
+Compares monthly customer volumes for **2023, 2024, and 2025**, with a dotted line showing customer growth trends.
+
+**Analysis:**
+
+Customer counts stay consistent, peaking in **March and April**—likely linked to promotional drives or festivals. A small dip in February indicates lower engagement post-holiday.
+
+**Business Interpretation:**
+
+- Re-apply successful March campaigns in low-engagement months.
+- Seasonal forecasting can ensure inventory and marketing alignment.Repeat-Order Slicer (14 K Customers, Bottom-Right)
+
+---
+
+**Chart Insight:**
+
+- **14 K customers** placed **more than one order** in the last six months.
+
+**Analysis:**
+
+A large repeat-order base reinforces Blinkit’s brand trust and convenience advantage.
+
+**Business Interpretation:**
+
+- Maintain strong customer experience to sustain repeat frequency.
+- Introduce **tiered loyalty benefits** for customers crossing specific order thresholds.
+
+---
+
+## Overall Summary
+
+This dashboard unites **customer acquisition, retention, and growth analytics** into a single data story.
+
+It shows that while Blinkit’s total sales and customers are stable, there is scope to:
+
+- Reactivate inactive and lost customers,
+- Strengthen loyalty among high-value users, and
+- Optimize marketing timing around peak months.
+
+---
+
+### Key Takeaways
+
+- Overall growth slightly declined (-1.24 %) but stability remains strong.
+- Repeat customers and top 100 buyers drive a significant share of sales.
+- Targeted retention and seasonal promotions can accelerate momentum.
 ---
 
 ##  Usage
@@ -532,6 +684,349 @@ You can explore the **live interactive Power BI dashboard** here
 
 ---
 
+6. ### Blinkit Sales & Feedback Performance Dashboard
+
+<img width="1554" height="853" alt="Screenshot 2025-10-28 230739" src="https://github.com/user-attachments/assets/7b9e1d2b-bd5c-411f-be5e-ae1952577d04" />
+
+## Overview
+
+This **Blinkit Sales and Customer Feedback Dashboard** provides a 360° view of how customers interact with the platform — combining **sales performance**, **customer segmentation**, and **feedback analytics** to uncover hidden insights that shape customer satisfaction and business growth.
+
+The dashboard highlights the balance between **quantitative performance** (orders, growth rate) and **qualitative experience** (ratings, feedback sentiment).
+
+---
+
+## Sales Performance Summary (Top-Left Card)
+
+**Insight:**
+
+- **Quantity 2025:** 61.15K
+- **Quantity 2024:** 61.92K
+- **Growth:** -1.24%
+
+**Analysis:**
+
+Blinkit maintained stable sales volumes over the past six months, with only a marginal decline of 1.24%. Despite intense competition and market saturation, the company’s customer retention is consistent — showing operational strength and a loyal customer base.
+
+**Business Perspective:**
+
+- Stable orders signal reliable supply chain and delivery systems.
+- Small decline suggests an opportunity to introduce **seasonal discount campaigns** or **cross-category bundles** to re-ignite growth.
+
+---
+
+## Customer Overview Table (Center Section)
+
+**Data Dimensions:**
+
+- Customer name
+- Product category
+- Customer segment
+- Feedback sentiment (Positive, Neutral, Negative)
+- Feedback category (App Experience, Product Quality, Delivery, Customer Service)
+
+**Analysis:**
+
+The table links customer behavior with sentiment — providing granular insight into **which customer types give which kind of feedback**. For example:
+
+- **Regular customers** dominate **App Experience** and **Product Quality** feedback.
+- **Inactive users** often report issues under **Customer Service** or **Delivery**, hinting at re-engagement barriers.
+
+**Business Perspective:**
+
+Understanding how feedback aligns with purchase categories helps Blinkit:
+
+- Improve service consistency across high-volume product lines.
+- Personalize communication for each customer segment.
+
+---
+
+## Feedback Category Breakdown (Bottom-Left Donut Chart)
+
+**Insight:**
+
+Customer feedback is distributed across four main experience areas:
+
+- App Experience
+- Customer Service
+- Product Quality
+- Delivery
+
+**Analysis:**
+
+All four categories receive near-equal representation, suggesting customers evaluate Blinkit holistically — not just on one parameter like delivery speed. This balanced view implies that improvements must be coordinated across all departments.
+
+**Business Perspective:**
+
+- Prioritize **Customer Service** and **App UX** since they directly affect repeat purchase behavior.
+- Conduct root-cause analysis for recurring feedback within “Product Quality.”Feedback Sentiment Analysis (Second Donut Chart)
+
+---
+
+**Insight:**
+
+- Positive: 70.38%
+- Neutral: 19.85%
+- Negative: 9.77% (approx.)
+
+**Analysis:**
+
+A strong **70% positive sentiment** reflects strong customer satisfaction and loyalty. The small neutral and negative groups highlight minor pain points but nothing structurally alarming.
+
+**Business Perspective:**
+
+- Maintain momentum by celebrating service consistency.
+- Use **neutral feedback** as opportunities for improvement — these customers are easiest to convert to promoters.
+
+---
+
+## Rating Distribution (Bottom-Right Bar Section)
+
+**Insight:**
+
+- Rating 1: 688
+- Rating 2: 648
+- Rating 3: 2743
+- Rating 4: 9446
+- Rating 5: 7211
+
+**Analysis:**
+
+Over **16K customers** rated Blinkit positively (4 or 5 stars), forming **81% of total reviews**. Mid-range (3-star) ratings suggest that while expectations are mostly met, enhancing personalization or delivery precision could further boost top-tier satisfaction.
+
+**Business Perspective:**
+
+- The high number of 4- and 5-star ratings is a competitive edge.
+- Convert 3-star raters to 4+ through micro-experience improvements such as:
+    - Faster delivery notifications,
+    - Simplified product replacement flow,
+    - Rewarding repeat buyers with instant cashback.
+
+---
+
+## Summary & Strategic Takeaways
+
+1. **Overall Stability:** Despite a slight dip in sales (-1.24%), Blinkit’s operational and customer trust remains robust.
+2. **Customer Sentiment:** Over 70% of feedback is positive — proving that service reliability is a major strength.
+3. **Action Points:**
+    - Improve “Customer Service” and “App Experience” feedback loops.
+    - Launch retention campaigns targeting 3-star reviewers.
+    - Use data from repeat segments to predict potential churn early.
+  
+---
+
+7. ###  Blinkit Inventory Management Dashboard
+
+<img width="1533" height="868" alt="Screenshot 2025-10-28 231041" src="https://github.com/user-attachments/assets/542a97ed-ceda-482f-b4c7-282679ea23b0" />
+
+## Overview
+
+The **Blinkit Inventory Dashboard** provides a comprehensive analysis of **stock movement**, **availability**, and **damage trends** — helping operations and supply chain teams maintain balance between inventory levels and product demand.
+
+The dashboard transforms raw warehouse data into a clear, actionable view — ensuring **data-driven decisions** on purchasing, logistics, and product replenishment cycles.Key Metrics Summary (Top Section)
+
+---
+
+**Metrics Displayed:**
+
+- **Total Stock Received:** 655.7K
+- **Available Stock:** 469.0K
+- **Stock Movement:** 28.5%
+- **Stock Received (Last Period):** 546.2K
+- **Damaged Stock:** 109.5K
+
+**Analysis:**
+
+Over 655K total stock units were received, with 71.53% still available for dispatch. The 28.5% movement rate signifies strong inventory rotation — ensuring minimal stagnation. However, **109.5K units** marked as damaged highlight a significant quality control issue that requires deeper investigation.
+
+**Business Perspective:**
+
+- The company is efficiently handling product flow, but the **16.69% damaged stock ratio** calls for **reviewing warehouse handling and supplier packaging quality**.
+- High stock movement reflects effective demand forecasting and replenishment accuracy.
+
+---
+
+## Stock Information Trend (Bottom-Left Chart)
+
+**Data Tracked:**
+
+- Stock Received
+- Period Value
+- Damaged Stock
+- Available Stock
+
+**Analysis:**
+
+The chart provides a week-long visualization of inventory trends.
+
+- **Stock Received** maintains steady inflow around 77K–79K units daily.
+- **Available Stock** decreases gradually, showing consistent order fulfillment.
+- **Damaged Stock** stays around 15K–16K per day — stable but relatively high, suggesting a recurring issue rather than random incidents.
+
+**Business Perspective:**
+
+- The stability in stock inflow indicates strong supplier coordination.
+- Damaged stock needs a dedicated process audit — likely due to transportation or storage conditions.
+- Implementing an **early detection mechanism** can reduce return costs and improve operational margins.Stock Availability Gauge (Bottom-Right Card)
+
+---
+
+**Insight:**
+
+- **Available Stock:** 71.53%
+- **Value:** 469.0K
+
+**Analysis:**
+
+A healthy stock level above 70% ensures Blinkit can meet short-term demand without overstocking. The balance between **availability** and **movement** signals operational maturity — an optimal “just-in-time” inventory model.
+
+**Business Perspective:**
+
+- This metric validates **inventory health** — ensuring customer orders are rarely delayed.
+- Continuous monitoring helps maintain this equilibrium and prevents both stockouts and overstocking scenarios.
+
+---
+
+## Damaged Stock Gauge (Bottom-Right Card)
+
+**Insight:**
+
+- **Damaged Stock:** 16.69%
+- **Count:** 109.5K
+
+**Analysis:**
+
+The damage rate is a critical area of concern. A figure above 10% is typically alarming in retail operations. This implies potential lapses in product handling, packaging, or temperature control during storage or transit.
+
+**Business Perspective:**
+
+- Introduce **damage prevention KPIs** to hold vendors and logistics partners accountable.
+- Explore **AI-driven anomaly detection** for predicting damage-prone categories or storage zones.
+
+---
+
+## Strategic Takeaways
+
+1. **Inventory Efficiency:**
+    
+    The dashboard reveals strong control over supply and demand alignment with 28.5% active stock movement.
+    
+2. **Risk Alert:**
+    
+    Damaged stock ratio (16.69%) represents a significant cost center — worth immediate operational intervention.
+    
+3. **Sustainability in Practice:**
+    
+    The dashboard encourages **data-driven warehouse management**, reducing waste and improving fulfillment timelines.
+    
+4. **Business Value:**
+    - Reduces manual stock reconciliation efforts.
+    - Enables **predictive inventory management** through trend visibility.
+    - Empowers leadership with actionable insights on vendor reliability and supply chain quality.
+
+---
+
+8. ### Blinkit Marketing Analytics Dashboard
+
+<img width="1562" height="877" alt="Screenshot 2025-10-28 231321" src="https://github.com/user-attachments/assets/79c965ba-bff0-47bf-b7b9-c605bafe71a0" />
+## Overview
+
+The **Blinkit Marketing Dashboard** visualizes campaign performance across multiple digital channels. It brings together key marketing metrics such as clicks, conversions, impressions, and revenue to help understand **campaign effectiveness, ROI, and audience engagement trends**.
+
+This dashboard empowers business teams to monitor **marketing efficiency** and make **data-driven budget allocation decisions** for optimal returns.
+
+---
+
+## Key Performance Metrics (Top Section)
+
+**Metrics Displayed:**
+
+- **Clicks:** 711.88K
+- **Conversions:** 224.67K
+- **Impressions:** 2.88M
+- **Revenue:** 1.95M
+- **Spend:** 1.02M
+
+**Analysis:**
+
+- **711K+ clicks** and **2.88M impressions** reflect solid brand reach and digital visibility.
+- The **conversion rate (~31%)** is strong, showing effective targeting and ad quality.
+- With **$1.02M spend generating $1.95M in revenue**, the Return on Ad Spend (ROAS) is approximately **1.9x**, indicating positive profitability and efficient campaign spending.
+
+**Business Perspective:**
+
+- Blinkit’s marketing team is generating nearly **double the returns** on their digital ad investments — a sign of well-optimized campaigns.
+- The **click-to-conversion funnel** highlights high engagement quality, suggesting that customers find the ad content relevant and actionable.Marketing Value by Month & Key Metrics (Bottom-Right Chart)
+
+---
+
+**Data Tracked:**
+
+- Clicks
+- Conversions
+- Impressions
+- Revenue Generated
+- ROAS
+- Spend
+
+**Analysis:**
+
+The trend line reveals a **consistent performance** across weekdays, with impressions remaining near 0.4M daily and conversions maintaining a stable pattern.
+
+- **Impressions vs. Clicks:** A strong correlation indicates good ad visibility and targeting precision.
+- **Revenue vs. Spend:** Revenue consistently outpaces spending, proving campaign efficiency.
+- **ROAS Stability:** The flat line behavior suggests that performance is steady, but innovation in creative strategy could further enhance growth.
+
+**Business Perspective:**
+
+- **Stable engagement metrics** indicate a mature campaign, but periodic creative refreshes could help re-engage audiences.
+- **Predictable spend-to-revenue ratios** are a good sign for scalability — future campaigns can safely expand budgets without over-risking ROI.
+- Day-wise performance tracking allows fine-tuning ad placements for better weekday vs. weekend optimization.Campaign Funnel Breakdown (Bottom-Left Panel)
+
+---
+
+**Metrics:**
+
+- Clicks
+- Conversions
+- Impressions
+- Revenue Generated
+- ROAS
+- Spend
+
+**Analysis:**
+
+The funnel design gives a **hierarchical view of marketing efficiency**, moving from impressions → clicks → conversions → revenue.
+
+- The gap between impressions and clicks reflects a **CTR (Click-Through Rate)** of approximately **25%**, strong for retail-focused digital campaigns.
+- The steady ROAS further validates that Blinkit’s **marketing budget is well-allocated** with minimal waste.
+
+**Business Perspective:**
+
+- Ensures teams can trace marketing outcomes back to the source — supporting accountability and transparency.
+- Useful for identifying which campaigns yield the **best ROI per dollar spent**, enabling smarter future investment planning.
+
+---
+
+## Strategic Insights
+
+1. **Performance Efficiency:**
+    
+    Blinkit’s campaigns are both cost-efficient and conversion-oriented, maintaining a positive ROAS trend.
+    
+2. **Data-Driven Optimization:**
+    
+    Insights from this dashboard can help in **predictive marketing** — estimating the most profitable days, audience groups, and channels.
+    
+3. **Revenue Growth Opportunity:**
+    
+    Expanding ad spend on high-performing segments can potentially **double ROI** in subsequent campaigns.
+    
+4. **Future Enhancements:**
+    
+    Integrating **customer demographic data** and **channel segmentation (Google Ads, Meta, YouTube)** could provide deeper performance attribution.
+
+---
 ## Author & Contact
 
 **Rahul Googikoll**  
