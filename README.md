@@ -504,16 +504,6 @@ While total sales and customer counts show **stability**, opportunities lie in *
 
 5. **Inventory Insights** – Stock Received, Availability %, and Damaged Stock Analysis
 
-   <img width="1451" height="811" alt="Screenshot 2025-10-23 200008" src="https://github.com/user-attachments/assets/ff75302d-3ac6-4c3d-9c99-31cb25c29d6f" />
-
-   <img width="1456" height="814" alt="Screenshot 2025-10-23 195927" src="https://github.com/user-attachments/assets/42c9437a-4138-451f-977f-8a684bafb876" />
-
-7. **Marketing Overview** – Impressions, Clicks, Conversions, Spend, and ROI visualizations  
-
-  <img width="1443" height="809" alt="Screenshot 2025-10-23 195950" src="https://github.com/user-attachments/assets/9289cb2e-719a-48f6-8128-ac5736fd6a0e" />
-
-
-  <img width="1448" height="812" alt="Screenshot 2025-10-23 200028" src="https://github.com/user-attachments/assets/1df3a412-7074-4c1c-9b80-45186e551c35" />
 
 ---
 
