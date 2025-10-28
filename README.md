@@ -148,7 +148,7 @@ Blinkit’s customer base is loyal but under-leveraged. Introducing loyalty prog
 
 ---
 
-### ** 4. Inventory Management & Supply Chain Optimization**
+### **4. Inventory Management & Supply Chain Optimization**
 
 The **Inventory section** of the dashboard reveals:
 - **Available Stock:** 71.83%  
@@ -204,12 +204,12 @@ Through its modular design and dynamic filtering capabilities, it empowers teams
 This project showcases **end-to-end analytical thinking** — from data modeling and visualization to **strategic storytelling** that turns numbers into business decisions.  
 It demonstrates how analytical design can **bridge data and strategy**, supporting Blinkit’s vision of becoming India’s most agile and data-driven quick-commerce platform.
 
+---
 
-2. **Customer Analytics** – Active vs Lost, Repeat Customers, Growth Trends
+2. ## Customer Analytics – Active vs Lost, Repeat Customers, Growth Trends
    
 <img width="1552" height="875" alt="Screenshot 2025-10-28 224227" src="https://github.com/user-attachments/assets/2a7ed174-d770-4c77-ba02-b16b7a88f7e2" />
 
-## Overview
 
 This interactive **Blinkit Customer Analytics Dashboard** provides a comprehensive view of the company’s sales performance, customer behavior, product trends, and regional distribution over the last six months. Each visual element delivers actionable insights to support data-driven decisions across **marketing, inventory management, and customer retention** strategies.
 
@@ -347,11 +347,9 @@ The Blinkit Dashboard integrates essential business KPIs across **sales, payment
 
 ---
 
-4. **Feedback Analysis** – Sentiment Distribution, 1–5 Star Ratings, Complaint Categories
+4. ## Feedback Analysis – Sentiment Distribution, 1–5 Star Ratings, Complaint Categories
 
 <img width="1532" height="876" alt="Screenshot 2025-10-28 225225" src="https://github.com/user-attachments/assets/2cacb039-b96b-4cdd-9e1e-5ea26fd4092c" />
-
-## Overview
 
 This **Blinkit Feedback Analysis Dashboard** provides an end-to-end understanding of customer behavior, retention, and sales distribution across six months.
 
@@ -505,7 +503,6 @@ While total sales and customer counts show **stability**, opportunities lie in *
 5. ### Blinkit Customer Insights Dashboard
 
 <img width="1538" height="867" alt="Screenshot 2025-10-28 230441" src="https://github.com/user-attachments/assets/8a98e48e-e446-48f1-8feb-b1625c966db9" />
-## Overview
 
 This **Blinkit Customer Insights Dashboard** offers a complete analysis of customer behavior, sales performance, and retention metrics across the last six months.
 
@@ -638,41 +635,6 @@ A large repeat-order base reinforces Blinkit’s brand trust and convenience adv
 - Maintain strong customer experience to sustain repeat frequency.
 - Introduce **tiered loyalty benefits** for customers crossing specific order thresholds.
 
----
-
-## Overall Summary
-
-This dashboard unites **customer acquisition, retention, and growth analytics** into a single data story.
-
-It shows that while Blinkit’s total sales and customers are stable, there is scope to:
-
-- Reactivate inactive and lost customers,
-- Strengthen loyalty among high-value users, and
-- Optimize marketing timing around peak months.
-
----
-
-### Key Takeaways
-
-- Overall growth slightly declined (-1.24 %) but stability remains strong.
-- Repeat customers and top 100 buyers drive a significant share of sales.
-- Targeted retention and seasonal promotions can accelerate momentum.
----
-
-##  Usage
-
-You can explore the **live interactive Power BI dashboard** here 
-
-🔗 **[View the BlinkIT Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzYyMTYwOTMtY2NjZi00NmI4LTg5NjItZjVkYTIxNDk0N2NlIiwidCI6IjJmNmNhNDZhLTcyOGMtNDUzYy05MTMxLWU1YzUyN2Q3YWJiNyIsImMiOjJ9&pageName=1aedcb1c16b2b0065ec2)**  
-
-**Instructions:**  
-1. Click the link above to open the dashboard.  
-2. Use the **filters and slicers** for region, category, or time period.  
-3. Hover over charts for detailed **tooltips and metrics**.  
-4. Navigate across pages for Sales, Customer, Inventory, and Marketing views.  
-5. Best viewed on a **desktop browser** for full interactivity.  
-
----
 
 ## Final Recommendations
 
@@ -687,8 +649,6 @@ You can explore the **live interactive Power BI dashboard** here
 6. ### Blinkit Sales & Feedback Performance Dashboard
 
 <img width="1554" height="853" alt="Screenshot 2025-10-28 230739" src="https://github.com/user-attachments/assets/7b9e1d2b-bd5c-411f-be5e-ae1952577d04" />
-
-## Overview
 
 This **Blinkit Sales and Customer Feedback Dashboard** provides a 360° view of how customers interact with the platform — combining **sales performance**, **customer segmentation**, and **feedback analytics** to uncover hidden insights that shape customer satisfaction and business growth.
 
@@ -818,8 +778,6 @@ Over **16K customers** rated Blinkit positively (4 or 5 stars), forming **81% of
 7. ###  Blinkit Inventory Management Dashboard
 
 <img width="1533" height="868" alt="Screenshot 2025-10-28 231041" src="https://github.com/user-attachments/assets/542a97ed-ceda-482f-b4c7-282679ea23b0" />
-
-## Overview
 
 The **Blinkit Inventory Dashboard** provides a comprehensive analysis of **stock movement**, **availability**, and **damage trends** — helping operations and supply chain teams maintain balance between inventory levels and product demand.
 
@@ -1027,6 +985,41 @@ The funnel design gives a **hierarchical view of marketing efficiency**, moving 
     Integrating **customer demographic data** and **channel segmentation (Google Ads, Meta, YouTube)** could provide deeper performance attribution.
 
 ---
+
+## Overall Summary
+
+This dashboard unites **customer acquisition, retention, and growth analytics** into a single data story.
+
+It shows that while Blinkit’s total sales and customers are stable, there is scope to:
+
+- Reactivate inactive and lost customers,
+- Strengthen loyalty among high-value users, and
+- Optimize marketing timing around peak months.
+
+---
+
+### Key Takeaways
+
+- Overall growth slightly declined (-1.24 %) but stability remains strong.
+- Repeat customers and top 100 buyers drive a significant share of sales.
+- Targeted retention and seasonal promotions can accelerate momentum.
+---
+
+##  Usage
+
+You can explore the **live interactive Power BI dashboard** here 
+
+🔗 **[View the BlinkIT Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzYyMTYwOTMtY2NjZi00NmI4LTg5NjItZjVkYTIxNDk0N2NlIiwidCI6IjJmNmNhNDZhLTcyOGMtNDUzYy05MTMxLWU1YzUyN2Q3YWJiNyIsImMiOjJ9&pageName=1aedcb1c16b2b0065ec2)**  
+
+**Instructions:**  
+1. Click the link above to open the dashboard.  
+2. Use the **filters and slicers** for region, category, or time period.  
+3. Hover over charts for detailed **tooltips and metrics**.  
+4. Navigate across pages for Sales, Customer, Inventory, and Marketing views.  
+5. Best viewed on a **desktop browser** for full interactivity.  
+
+---
+
 ## Author & Contact
 
 **Rahul Googikoll**  
