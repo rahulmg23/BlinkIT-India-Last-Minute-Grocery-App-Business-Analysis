@@ -1,6 +1,6 @@
 # BlinkIT India: Last-Minute Grocery App Business Analysis
 
-**Analyzing sales performance, customer behavior, inventory dynamics, and marketing effectiveness to drive strategic growth for India's leading last-minute grocery delivery application using Power BI.**
+**Analyzing sales performance, customer behavior, inventory dynamics, and marketing effectiveness to drive strategic growth for India's leading last-minute grocery delivery application using Power BI**
 
 ---
 
