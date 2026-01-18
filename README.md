@@ -4,7 +4,7 @@
 
 ---
 
-## Table of Contents
+## Table of Content
 
 - [Overview](#-overview)
 - [Business Problem](#-business-problem)
